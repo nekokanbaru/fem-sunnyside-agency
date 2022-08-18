@@ -140,6 +140,10 @@ svg {
   border-radius: 10em;
 }
 
+.navigation img {
+	align-self:center;
+}
+
 .navigation a {
   text-decoration: none;
 }
